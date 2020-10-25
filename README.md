@@ -1,6 +1,6 @@
-# lib-lazy
+# lib-cache
 
-    Provides generic envelope classes that support lazy initialization
+    Caching for Singleton Value Implementations
     
     Version 1
 
@@ -10,24 +10,9 @@
 
 ## maven dependency
 
+    <!-- not yet abailable -->
     <dependency>
       <groupId>de.team33.libs</groupId>
-      <artifactId>lib-lazy-01</artifactId>
+      <artifactId>lib-cache-01</artifactId>
       <version>1.0.0</version>
-    </dependency>
-
-## formerly
-
-### lib-provision
-
-#### Requires
-
-    Java 8 or later
-
-#### pom.xml
-
-    <dependency>
-      <groupId>de.team33.libs</groupId>
-      <artifactId>lib-provision</artifactId>
-      <version>8.2.1</version>
     </dependency>

@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.team33.libs</groupId>
-    <artifactId>lib-lazy-01</artifactId>
+    <artifactId>lib-cache-01</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Team33 Lazy Initialization Library</name>
-    <description>Provides generic envelope classes that support lazy initialization</description>
-    <url>https://github.com/akk-team33/lib-lazy</url>
+    <name>Team33 Cache Initialization Library</name>
+    <description>Provides generic envelope classes that support cache initialization</description>
+    <url>https://github.com/akk-team33/lib-cache</url>
 
     <licenses>
         <license>
@@ -26,9 +26,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/akk-team33/lib-lazy.git</connection>
-        <developerConnection>scm:git:ssh://github.com:akk-team33/lib-lazy.git</developerConnection>
-        <url>https://github.com/akk-team33/lib-lazy</url>
+        <connection>scm:git:git://github.com/akk-team33/lib-cache.git</connection>
+        <developerConnection>scm:git:ssh://github.com:akk-team33/lib-cache.git</developerConnection>
+        <url>https://github.com/akk-team33/lib-cache</url>
     </scm>
 
     <properties>
